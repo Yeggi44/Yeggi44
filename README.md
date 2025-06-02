@@ -26,7 +26,7 @@
 - 🌐 Portfolio: [View my portfolio](https://yeggi44.github.io/yagnesh-portfolio.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/yagnesh-mangroliya](https://linkedin.com/in/yagnesh-mangroliya)
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
