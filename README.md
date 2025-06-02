@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi there 👋 I am Yagnesh Mangroliya
 
 - 🧑‍💻 I’m currently working on something amazing
