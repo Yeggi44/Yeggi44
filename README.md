@@ -28,4 +28,3 @@
 
 ---
 
-> “Stay curious, stay building. The world is waiting for your next big thing.”
